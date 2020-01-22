@@ -1,0 +1,59 @@
+{
+  "persons": [
+    {
+      "name": "Youmu Konpaku",
+      "imagePath": "youmu.jpg",
+      "class": "Underworld"
+    },
+    {
+      "name": "ZUN",
+      "imagePath": "zun.png",
+      "class": "Creator"
+    },
+    {
+      "name": "Hanyuu",
+      "imagePath": "hanyuu.png",
+      "class": "Ghost"
+    },
+    {
+      "name": "Aqua",
+      "imagePath": "aqua.png",
+      "class": "Goddess"
+    },
+    {
+      "name": "Donald Duck",
+      "imagePath": "donald.png",
+      "class": "Cartoon"
+    },
+    {
+      "name": "Plankton",
+      "imagePath": "plankton.png",
+      "class": "Villain"
+    },
+    {
+      "name": "Hershel Layton",
+      "imagePath": "layton.jpg",
+      "class": "Gentleman"
+    },
+    {
+      "name": "Karen",
+      "imagePath": "karend.jpg",
+      "class": "Simple Girl"
+    },
+    {
+      "name": "Luigi",
+      "imagePath": "Weegee.png",
+      "class": "Plumber"
+    },
+    {
+      "name": "Konata",
+      "imagePath": "konata.jpg",
+      "class": "Pure Justice"
+    },
+    {
+      "name": "Makise Kurisu",
+      "imagePath": "makise.jpg",
+      "class": "Scientist"
+    }
+  ]
+}
